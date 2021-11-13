@@ -23,7 +23,7 @@ names = ["Sam", "Lisa", "Micha", "Dave", "Wyatt", "Emma", "Sage"]
 
 
 # Exercise 3:
-# Write a for loop which appends the square of each number to the new list.
+# Write a for loop which appends the square of each number to a new list (you have to create this new list).
 numbers = [3, 7, 6, 8, 9, 11, 15, 25]
 
 # --- WRITE YOUR CODE BELOW ---
@@ -35,7 +35,7 @@ numbers = [3, 7, 6, 8, 9, 11, 15, 25]
 
 
 # Exercise 4:
-# Write a for loop using an if statement, that appends each number to the new list if it's positive.
+# Write a for loop using an if statement, that appends each number to a new list if it's positive.
 all_numbers = [111, 32, -9, -45, -17, 9, 85, -10]
 
 # --- WRITE YOUR CODE BELOW ---
