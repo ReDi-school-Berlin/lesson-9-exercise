@@ -90,7 +90,7 @@ all_numbers = [111, 32, -9, -45, -17, 9, 85, -10]
 
 
 # Exercise 7: Count the total number of digits in a number
-# Write a program to count the total number of digits in a number using a while loop.
+# Write a program to count the total number of digits in a number using a loop.
 
 # For example, the number is 75869, so the output should be 5.
 
